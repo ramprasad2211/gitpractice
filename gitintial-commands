@@ -1,0 +1,7 @@
+git init
+git config
+git clone
+git status
+git log
+git add
+git commit
